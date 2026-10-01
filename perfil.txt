@@ -1,0 +1,3 @@
+Nombre: Michael Guerrero
+Habilidades: Soporte tecnico, redes, WSL, Git basico y progrmacion
+Meta Aprender el flujo de Git y GitHub para proyectos reales que sirvan para optener y brindar a la comunidad 
