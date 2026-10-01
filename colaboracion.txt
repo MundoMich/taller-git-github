@@ -1,2 +1,2 @@
 Actualizacion prioritaria desde rama main
-Aporte modificado por la rama developer developer
+Aporte modificado por la rama developer
