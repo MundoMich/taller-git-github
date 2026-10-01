@@ -1,1 +1,1 @@
-texto con error critico
+Texto con error critico
